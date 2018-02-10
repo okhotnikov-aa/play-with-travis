@@ -1,1 +1,1 @@
-### HOMEWORK 3
+[![Build Status](https://travis-ci.org/okhotnikov-aa/play-with-travis.svg?branch=master)](https://travis-ci.org/okhotnikov-aa/play-with-travis)
